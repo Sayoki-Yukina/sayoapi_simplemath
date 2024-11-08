@@ -1,2 +1,2 @@
-# sayoapi_simplemath
+# SayoAPI SimpleMath
 A Simple Math API written by javascript.

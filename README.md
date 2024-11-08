@@ -2,8 +2,8 @@
 A Simple Math API written by javascript.
 ## APIs:
 ### sayoapi_oddcalc
-Usage: sayoapi_oddcalc(Number)
-— Return: Boolean
+#### Usage: sayoapi_oddcalc(Number)
+Return: Boolean
 - Example:
 ```
 var svar = 1;
@@ -13,8 +13,8 @@ if (sayoapi_oddcalc(svar)){
 ```
 Check the number variable is odd or not.
 ### sayoapi_rouding_arrays
-Usage: sayoapi_rouding_arrays(Array)
-— Return: Array
+#### Usage: sayoapi_rouding_arrays(Array)
+Return: Array
 - Example:
 ```
 var sarray = [1.5,2,3.1];

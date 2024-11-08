@@ -2,7 +2,7 @@
 A Simple Math API written by javascript.
 ## APIs:
 ### sayoapi_oddcalc
-—— Usage: sayoapi_oddcalc(Number)
+Usage: sayoapi_oddcalc(Number)
 — Return: Boolean
 - Example:
 ```
@@ -13,7 +13,7 @@ if (sayoapi_oddcalc(svar)){
 ```
 Check the number variable is odd or not.
 ### sayoapi_rouding_arrays
-—— Usage: sayoapi_rouding_arrays(Array)
+Usage: sayoapi_rouding_arrays(Array)
 — Return: Array
 - Example:
 ```
